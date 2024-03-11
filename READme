@@ -1,8 +1,8 @@
 The SDF-CSD folder contains the code for estimating the model in 
-Galli, F. (2023) "A spatial stochastic frontier model including both frontier and error based spatial cross-sectional dependence". Spatial Economic Analysis, 18(2), 239–258.
+Galli, F. (2023). "A spatial stochastic frontier model including both frontier and error based spatial cross-sectional dependence". Spatial Economic Analysis, 18(2), 239–258.
 
 The SDF-STE folder contains the codes for estimating the model in
 Galli, F. (2023). "A spatial stochastic frontier model introducing inefficiency spillovers". Journal of the Royal Statistical Society Series C: Applied Statistics, 72(2), 346-367.
 
 The SAR-SF with FE folder contains the codes for estimating the model in 
-"Accounting for unobserved individual heterogeneity in spatial stochastic frontier models: the case of Italian innovative start-ups".
+Galli, F. (2024). "Accounting for unobserved individual heterogeneity in spatial stochastic frontier models: the case of Italian innovative start-ups". Spatial Economic Analysis. 
